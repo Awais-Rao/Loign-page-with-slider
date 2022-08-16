@@ -1,13 +1,12 @@
-.main-container{
+/* .main-container{
     height: 100vh;
     
     
-}
-.main-row{
-    height: 100vh !important;    
+} */
+.main-row{   
 }
 .form-container{
-    height: 100vh;
+    height: 100vh !important;
 }
 .main-heading{
     font-size: xx-large;
