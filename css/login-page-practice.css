@@ -8,6 +8,7 @@
 }
 .form-container{
     height: 100vh;
+    background-color: orange;
 }
 .main-heading{
     font-size: xx-large;
