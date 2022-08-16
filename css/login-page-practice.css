@@ -453,8 +453,7 @@
 @media screen and (max-width:576px)
 {
     .wraping-div{
-        margin-top: 30%;
-        margin-bottom: 20%;
+        margin-top: 20%;
         
     }
     .sample-img{
@@ -468,7 +467,7 @@
     margin-top: 18vh;
    }
    .carousel-item{
-    height: 70vh;
+    height: 80vh;
     }
     .slider-img-div{
         height: 40vh;
